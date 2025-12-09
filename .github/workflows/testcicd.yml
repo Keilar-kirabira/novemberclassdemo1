@@ -1,7 +1,8 @@
 name: Learn
 on:
   push:
-  branches: [main]
+    branches: [main]
+
 
 jobs:
   setup_django_project:
